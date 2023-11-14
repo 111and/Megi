@@ -1,0 +1,7 @@
+echo "# Megi" >> README.md 
+git init
+git add README.md 
+git commit -m "первая фиксация"
+ветви git -M основной
+источник удаленного добавления git https://github.com/111and/Megi.git
+git push -u origin основной
